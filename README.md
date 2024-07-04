@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Patrick Roland Wijaya
+- 👋 Hi, I’m Patrick Roland Wijaya. 
 - 👀 I’m interested in software engineering.
 - 📫 How to reach me: patrickwijaya550@gmail.com | wijaya.patrick@student.greenriver.edu
 - 💻 Programming:
