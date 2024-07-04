@@ -12,7 +12,3 @@
   <img src="https://github.com/patrickw2601/patrickw2601/assets/142227700/132e9047-7cb2-459f-80b0-ae95664eb7ff" style="height:40pt">
   <img src="https://github.com/patrickw2601/patrickw2601/assets/142227700/f5329b17-994c-4dcd-992c-8b9532fe5a56" style="height:40pt">
   <img src="https://github.com/patrickw2601/patrickw2601/assets/142227700/f426196c-f808-4508-be3f-028c77d4701f" style="height:35pt">
-  <br>
-patrickw2601/patrickw2601 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
