@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Patrick Roland Wijaya. 
 - 👀 I’m interested in software engineering and artificial intelligence.
-- 📫 How to reach me: patrickwijaya550@gmail.com | wijaya.patrick@student.greenriver.edu
+- 📫 How to reach me: patrickwijaya550@gmail.com | pwijaya@uw.edu | pwijaya@cs.washington.edu
 - 💻 Programming:
   <br>
   <img src="https://github.com/patrickw2601/patrickw2601/assets/142227700/75bebfaa-8de5-4227-9206-651cbdd2b668" style="height:45pt">
